@@ -1,6 +1,6 @@
 # MiniFileX
 
-![MiniFileX](https://socialify.git.ci/pulkitgarg04/MiniFileX/image?font=Raleway&language=1&name=1&owner=1&theme=Dark)
+![MiniFileX](https://socialify.git.ci/pulkitgxrg/MiniFileX/image?font=Raleway&language=1&name=1&owner=1&theme=Dark)
 
 A comprehensive console application in C that provides a full suite of file and directory management operations. Perform basic file operations, directory management, and file manipulation tasks directly from your terminal.
 
@@ -37,7 +37,7 @@ A comprehensive console application in C that provides a full suite of file and 
 
 1. **Clone and navigate** to the project directory:
     ```bash
-    git clone https://github.com/pulkitgarg04/MiniFileX.git
+    git clone https://github.com/pulkitgxrg/MiniFileX.git
     cd MiniFileX
     ```
 
